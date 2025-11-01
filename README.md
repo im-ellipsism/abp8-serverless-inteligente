@@ -111,10 +111,27 @@ Puedes contactarme al correo **[tu_correo_profesional]**.
 
 ---
 
+
 ### © 2025 — Proyecto académico-profesional inspirado en AWS Serverless Lens y el Well-Architected Framework.
 
 
 
 ---
 > Este proyecto corresponde a una simulación completa de arquitectura y desarrollo serverless. No se implementó el despliegue real, pero todos los componentes y flujos se definen conforme a prácticas reales de AWS.
+> <br>
+> <br>
+> <br>
+> <br>
+> <br>
+> <br><br><br><br><br><br><br><br>
+> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+>  
+>  Pero ... **Por qué el café es infraestructura crítica? 🤔**:
+> 
+> porque:
+>  - sin él, el uptime neuronal cae al 30 %
+>  - los despliegues fallan misteriosamente
+>  - y los commits se vuelven filosóficos (“fix something maybe”)
 >
+> En resumen: sin café no hay cloud, solo neblina.
+
