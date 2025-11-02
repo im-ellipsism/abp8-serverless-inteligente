@@ -107,13 +107,12 @@ El sistema integra los principales componentes serverless de AWS:
 ## Contacto Profesional
 
 ¿Interesado en colaboraciones técnicas, proyectos cloud o simplemente en debatir sobre por qué el café es infraestructura crítica?
-Puedes contactarme al correo **[tu_correo_profesional]**.
+Puedes contactarme al correo **[sandra.engineer@gmail.com](mailto:sandra.engineer@gmail.com)**.
 
 ---
 
 
 ### © 2025 — Proyecto académico-profesional inspirado en AWS Serverless Lens y el Well-Architected Framework.
-
 
 
 ---
