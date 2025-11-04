@@ -1,0 +1,22 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: Arquitectura Serverless Inteligente - Proyecto ABP8
+
+Resources:
+  UsersFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: users.handler
+      Runtime: python3.12
+      Description: Gestión de usuarios
+      MemorySize: 128
+      Timeout: 10
+
+  OrdersFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: orders.handler
+      Runtime: python3.12
+      Description: Procesamiento de pedidos
+      MemorySize: 128
+      Timeout: 10
